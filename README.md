@@ -1,10 +1,10 @@
  # About
 
- This is a super simple script to make 3D (stereo) 180 x 180 degrees videos from videos recorded on modified Gear 360. It currently runs on Linux and supports 3840 x 1920 videos from the first generation of Gear 360 (Samsung SM-C200).
+ This is a super simple script to make 3D (stereo) 180 x 180 degrees videos from videos recorded on modified Gear 360. It currently runs on Linux and supports 3840 x 1920 videos from the first generation Gear 360 (Samsung SM-C200).
  
  # How to modify Gear 360
  
- Recording stereoscopic video requires two cameras facing in the same direction. You need tear down a Gear 360, put cameras in a new case, on the same plane. They have to be rotated by 90 degrees, otherwise ribbons whould be too short.
+ Recording stereoscopic video requires two cameras facing in the same direction. You need tear down a Gear 360, put cameras in a new case, on the same plane. They have to be rotated by 90 degrees, otherwise the ribbons would be too short.
  
  ![Rotated](camera.jpg)
  
@@ -45,4 +45,4 @@ For Ubuntu just run package manager:
  The file can be viewed on Gear VR using Samsung VR (Milk VR) software. 
  If you want publish it on Youtube, you have to inject VR180 metadata using this [spatial-media](https://github.com/Vargol/spatial-media) script.
  
- [Here is a test video on Youtube](https://www.youtube.com/watch?v=YAmRJcZcyMs) It can be viewed using carboard mode. If you use Gear VR, then you can watch the video inside Samsung Internet - fullscreen and 180 degrees SBS mode have to be nabled.
+ [Here is a test video on Youtube](https://www.youtube.com/watch?v=YAmRJcZcyMs) It can be viewed using carboard mode. If you use Gear VR, then you can watch the video inside Samsung Internet - fullscreen and 180 degrees SBS mode have to be enabled.
