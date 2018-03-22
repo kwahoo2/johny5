@@ -6,7 +6,7 @@
  
  Recording stereoscopic video requires two cameras facing in the same direction. You need tear down a Gear 360, put cameras in a new case, on the same plane. They have to be rotated by 90 degrees, otherwise ribbons whould be too short.
  
- ![Rotated cameras](camera setup.jpg)
+ ![Rotated](camera.jpg)
  
  Distance between cameras should be similar to human IPD. For example Gear VR headset uses 62 mm fixed IPD. 
  
@@ -25,7 +25,7 @@ For Ubuntu just run package manager:
 
  # How to use?
 
- Copy uncorverted video from the modified GEar 360 camera. It should look like this:
+ Copy uncorverted video from the modified Gear 360 camera. It should look like this:
  
  ![Before](before.jpg)
  
