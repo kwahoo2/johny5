@@ -13,9 +13,9 @@
  # Requirements
  
 * Linux
-* [Hugin](http://hugin.sourceforge.net/).
+* [Hugin](http://hugin.sourceforge.net/)
 * [ImageMagick](https://www.imagemagick.org/)
-* [ffmpeg](https://ffmpeg.org/download.html).
+* [ffmpeg](https://ffmpeg.org/download.html)
 * [GNU Parallel](https://www.gnu.org/software/parallel/)
 
 For Ubuntu just run package manager:
